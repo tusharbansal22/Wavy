@@ -1,6 +1,6 @@
 [submodule "wavy-frontend"]
 	path = wavy-frontend
-	url = https://github.com/tusharbansal22/Wavy-frontend
+	url = https://github.com/tusharbansal22/Wavy-frontend/
 [submodule "wavy-backend"]
 	path = wavy-backend
-	url = https://github.com/tusharbansal22/Wavy-backend
+	url = https://github.com/tusharbansal22/Wavy-backend/
