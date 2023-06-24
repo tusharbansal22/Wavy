@@ -1,9 +1,9 @@
 
 # 👋Wavy
 
-This repository is the parent repository of the Wavy project. Frontend and Backend are linked as submodules.
+This repository is the parent repository of the Wavy project. Frontend and Backend are linked as submodules. 
 
-**👋 Wavy** is a RSVP app for any kind of event with a very simple interface making it simple and fun.
+**👋 Wavy** is a RSVP app for any kind of event with a very simple interface making it simple and fun. The aim is to make the rsvp-ing for any event easy as I would just need to click a link to register (provided the user is logged-in).
 
 
 ## Tech Stack
